@@ -39,5 +39,5 @@ b   #plot the scatterplot b
 
 #Do the bar and scatter plots tell you different stories? Why?
 #They did not show different stories, though they looked different.
-#Bar plot only showed the mean values of each population, but scatter plots showed the entire values of each population. Although their mean values were similar, as bar plot shown, each population showed different pattern of dot distribution, as scatter plot shown.  
+#Bar plot only showed the mean values of each population, but scatter plots showed the entire observations of each population. Although their mean values were similar, as bar plot shown, each population showed different patterns of observation distribution, as scatter plot shown.  
 
